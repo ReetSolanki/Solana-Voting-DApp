@@ -1,7 +1,7 @@
 # Voken — Solana Voting dApp
 
 A decentralized voting application built on Solana where users buy tokens with SOL to vote on proposals.
-
+Followed this [tutorial](https://youtu.be/VrOedBsazKE?si=30Ci4St8UoJ9vMK1)
 ---
 
 ## Features
